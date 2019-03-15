@@ -15,5 +15,6 @@ else
         x2 = -b+sqrt(Delta)/2*a;
         B = sprintf('cette equation a deux solution x1 :%s et x2 :%d2',x1,x2);
         disp(B);
+        // comment 
 
 end
